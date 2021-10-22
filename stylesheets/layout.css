@@ -1,0 +1,187 @@
+body {
+  font-family: 'Playfair Display', serif;
+  position: relative;
+  width: 1440px;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+  background: #FFFFFF;
+}
+html {
+  background: #FFFFFF;
+  height: 10488px;
+  position: relative;
+  scroll-behavior: smooth;
+}
+.text1, .text2, .text3, .text4, .text5, .text6 {
+  position: absolute;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  color: #000000;
+}
+.firstscreen {
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+}
+.text1 {
+  position: absolute;
+  width: 969px;
+  height: 48px;
+  left: 115px;
+  top: 1118px;
+}
+.text2 {
+  position: absolute;
+  width: 1131px;
+  height: 192px;
+  left: 115px;
+  top: 1254px;
+}
+.text3 {
+  position: absolute;
+  width: 898px;
+  height: 48px;
+  left: 115px;
+  top: 1534px;
+}
+.anatomyoffont {
+  position: absolute;
+  width: 1534px;
+  height: 450px;
+  left: -12px;
+  top: 1800px;
+}
+.kaleidoscope {
+  position: absolute;
+  width: 1036px;
+  height: 1892px;
+  left: -280px;
+  top: 2446px;
+}
+.vector {
+  position: absolute;
+  width: 527.54px;
+  height: 1875.42px;
+  left: 715.39px;
+  top: 2439.93px;
+}
+.symbols {
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  left: 0px;
+  top: 4500px;
+}
+.green {
+  position: absolute;
+  top: 4500px;
+  width: 1440px;
+  height: 900px;
+  background-color: #017A28;
+}
+.text4 {
+  position: absolute;
+  width: 636px;
+  height: 96px;
+  left: 756px;
+  top: 6109px;
+}
+.glyphs {
+  position: absolute;
+  width: 1210.9px;
+  height: 718.87px;
+  left: 106.38px;
+  top: 5484.13px;
+}
+.kaleidoscopescreen {
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  left: 0px;
+  top: 6300px;
+}
+.Kaleidoscopetitle {
+  position: absolute;
+  width: 576px;
+  height: 96px;
+  left: 820px;
+  top: 7422px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 96px;
+  color: #000000;
+}
+.text5 {
+  position: absolute;
+  width: 427px;
+  height: 144px;
+  left: 194px;
+  top: 7647px;
+}
+.quote {
+  position: absolute;
+  width: 607px;
+  height: 432px;
+  left: 751px;
+  top: 7782px;
+
+  font-family: Playfair Display;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 48px;
+
+  color: #000000;
+}
+.rectangle {
+  position: absolute;
+  width: 669px;
+  height: 900px;
+  left: 720px;
+  top: 7349px;
+}
+.ligatures {
+  position: absolute;
+  width: 1269px;
+  height: 1082px;
+  left: 108px;
+  top: 8249px;
+}
+.text6 {
+  position: absolute;
+  width: 577px;
+  height: 96px;
+  left: 191px;
+  top: 9124px;
+}
+.kaleidoscopescreen2 {
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  left: 0px;
+  top: 9450px;
+}
+.footer {
+  position: absolute;
+  width: 496px;
+  height: 96px;
+  left: 472px;
+  top: 10372px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 96px;
+
+  color: #000000;
+}
